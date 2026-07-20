@@ -1,0 +1,4 @@
+*these are the requiremts for this - I reaaaaally need'nt add this line 'cause the title sasys it all*
+streamlit
+pandas
+plotly
